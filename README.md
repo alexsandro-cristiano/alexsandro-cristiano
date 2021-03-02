@@ -1,9 +1,10 @@
-<div align="center">
+<p align="center">
 
-# Hey Welcome, I'm Alexsandro :boy:
-I'm **student in system analysis and development** and will future developer front end and back end.
+<h1 align="center"> Hey Welcome, I'm Alexsandro :boy:</h1>
 
-</div>
+I'm **student in system analysis and development** and developer student in front end and back end.
+
+</p>
 
 ---
 
@@ -12,9 +13,10 @@ I'm **student in system analysis and development** and will future developer fro
 
 import Student from 'alexsandro-cristiano';
 
-class BasicInfo extends Student {
+class BasicInfomation extends Student {
   fullName    = "Alexsandro Cristiano Gonçalves da Silva";
   title   = ' Developer Student';
+  email = 'acg.alexsandro@hotmail.com';
 }
 
 class Skills extends Student {
@@ -28,7 +30,7 @@ class Skills extends Student {
 
 <div align="center">
 
-## Contatos
+## Contato
 
 </div>
 
