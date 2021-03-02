@@ -2,9 +2,12 @@
 
 <h1 align="center"> Hey Welcome, I'm Alexsandro :boy:</h1>
 
-I'm **student in system analysis and development** and developer student in front end and back end.
+<p align="center">I'm student in system analysis and development and developer student in front end and back end.</p>
 
 </p>
+
+
+[![Linkedin Badge](https://img.shields.io/badge/-Alexsandro%20Cristiano-0000FF?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexsandro-cristiano/)](https://www.linkedin.com/in/alexsandro-cristiano/)
 
 ---
 
@@ -27,14 +30,7 @@ class Skills extends Student {
 }
 
 ```
-
-<div align="center">
-
-## Contato
-
-</div>
-
-[![Linkedin Badge](https://img.shields.io/badge/-Alexsandro%20Cristiano-0000FF?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexsandro-cristiano/)](https://www.linkedin.com/in/alexsandro-cristiano/)
+![Github stats](https://github-readme-stats.vercel.app/api?username=Alexsandro-Cristiano&hide=issues&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&line_height=25)
 
 
-### <div align="center"> Veja meus Repositorios ⬇️ </div>
+### <div align="center"> Look at my repositories ⬇️ </div>
