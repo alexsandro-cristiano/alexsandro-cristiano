@@ -30,7 +30,5 @@ class Skills extends Student {
 }
 
 ```
-![Github stats](https://github-readme-stats.vercel.app/api?username=Alexsandro-Cristiano&hide=issues&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&line_height=25)
-
 
 ### <div align="center"> Look at my repositories ⬇️ </div>
