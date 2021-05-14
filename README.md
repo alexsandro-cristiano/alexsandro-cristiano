@@ -17,16 +17,17 @@
 import Student from 'alexsandro-cristiano';
 
 class BasicInfomation extends Student {
-  fullName    = "Alexsandro Cristiano Gonçalves da Silva";
-  title   = ' Developer Student';
+  fullName = "Alexsandro Cristiano Gonçalves da Silva";
+  nickname = "Alex";
+  title   = 'Developer Back-end';
   email = 'acg.alexsandro@hotmail.com';
 }
 
 class Skills extends Student {
-  backend = ['C', 'Java', 'PHP', 'NodeJS'];
+  backend = ['C', 'Java', 'PHP'];
   frontend = ['HTML', 'CSS', 'JavaScript'];
   databases = ['MySQL'];
-  tools = ['Visual Studio Code', 'Spring Boot', 'Git', 'Github'];
+  tools = ['Visual Studio Code', 'Git', 'Github'];
 }
 
 ```
