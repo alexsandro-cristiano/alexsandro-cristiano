@@ -47,8 +47,6 @@
 [linkedin]: https://www.linkedin.com/in/alexsandro-cristiano/
 [instagram]: https://www.instagram.com/alex_o_sander/
 
-[![Linkedin Badge](https://img.shields.io/badge/-Alexsandro%20Cristiano-0000FF?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexsandro-cristiano/)](https://www.linkedin.com/in/alexsandro-cristiano/)
-
 <br>
 <br>
 
