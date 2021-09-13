@@ -6,7 +6,8 @@
 
 </p>
 
-<br/>
+<br>
+<br>
 
 ## 💬 Sobre mim!
 
@@ -16,7 +17,8 @@
 - 🚀 Estou sempre aprendendo algo novo relacionado a tecnologia.
 - 🚴 Atividades ao ar livre me encantam
 
-<br/>
+<br>
+<br>
 
 ## Tecnologias e Ferramentas | Technologies and Tools
 
@@ -30,11 +32,15 @@
 <img align="left" width="30px" src="./img/sql.png">
 <img align="left" width="30px" src="./img/postgresql.png">
 
-<br/>
+<br>
+<br>
 
 ## Estatísticas | Statistics
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexsandro-cristiano&langs_count=30)](https://github.com/alexsandro-cristiano/github-readme-stats)
+
+<br>
+<br>
 
 ## Redes Sociais | Social Media
 
