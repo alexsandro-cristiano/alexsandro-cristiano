@@ -20,15 +20,15 @@
 
 ## Tecnologias e Ferramentas | Technologies and Tools
 
-<img align="left" width="40px" src="./img/programming.png" alt="computador dev">
-<img align="left" width="40px" src="./img/java.png" alt="lingaguem java">
-<img align="left" width="40px" src="./img/spring.png">
-<img align="left" width="40px" src="./img/html.png">
-<img align="left" width="40px" src="./img/css.png">
-<img align="left" width="40px" src="./img/js.png">
-<img align="left" width="40px" src="./img/git.png">
-<img align="left" width="40px" src="./img/sql.png">
-<img align="left" width="40px" src="./img/postgresql.png">
+<img align="left" width="30px" src="./img/programming.png" alt="computador dev">
+<img align="left" width="30px" src="./img/java.png" alt="lingaguem java">
+<img align="left" width="30px" src="./img/spring.png">
+<img align="left" width="30px" src="./img/html.png">
+<img align="left" width="30px" src="./img/css.png">
+<img align="left" width="30px" src="./img/js.png">
+<img align="left" width="30px" src="./img/git.png">
+<img align="left" width="30px" src="./img/sql.png">
+<img align="left" width="30px" src="./img/postgresql.png">
 
 <br/>
 
@@ -38,9 +38,9 @@
 
 ## Redes Sociais | Social Media
 
-[<img align="left" alt="linkedin" width="40px" src="./img/lk.png">][linkedin]
+[<img align="left" alt="linkedin" width="30px" src="./img/lk.png">][linkedin]
 
-[<img align="left" alt="instagram" width="40px" src="./img/ig.png">][instagram]
+[<img align="left" alt="instagram" width="30px" src="./img/is.png">][instagram]
 
 <!-- Sites -->
 
