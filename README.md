@@ -11,16 +11,16 @@
 
 ## 💬 Sobre mim!
 
-- 🧑‍🎓 Graduando em Analise e Desenvolvimento de Sistema = (22.2 === formado)
+- 🧑‍🎓 Graduando em Análise e Desenvolvimento de Sistemas
 - 🎓 Técnico em Eletrônica
-- 💼 Estou buscando minha primeira vaga como Dev.
+- 🎓 Técnico em Informática
+- 💼 Estou buscando uma oportunidade como Dev.
 - 🚀 Estou sempre aprendendo algo novo relacionado a tecnologia.
-- 🚴 Atividades ao ar livre me encantam
 
 <br>
 <br>
 
-## Tecnologias e Ferramentas | Technologies and Tools
+## Tecnologias e Ferramentas de estudo
 
 <img align="left" width="30px" src="./img/programming.png" alt="computador dev">
 <img align="left" width="30px" src="./img/java.png" alt="lingaguem java">
@@ -30,7 +30,6 @@
 <img align="left" width="30px" src="./img/js.png">
 <img align="left" width="30px" src="./img/git.png">
 <img align="left" width="30px" src="./img/sql.png">
-<img align="left" width="30px" src="./img/postgresql.png">
 
 <br>
 <br>
