@@ -16,8 +16,14 @@
 - 🎓 Técnico em Informática
 - 💼 Estou buscando uma oportunidade como Dev.
 - 🚀 Estou sempre aprendendo algo novo relacionado a tecnologia.
+- Ciclismo e praia sempre combinam comigo
 
 <br>
+
+
+## Projetos que são meu Xodó
+
+  - Rock Sité - <a href= "https://github.com/alexsandro-cristiano/rocksite">Repositorio</a> | <a href="https://rocksite.netlify.app/"> Site </a>
 <br>
 
 ## Tecnologias e Ferramentas de estudo
@@ -34,14 +40,14 @@
 <br>
 <br>
 
-## Estatísticas | Statistics
+## Estatísticas
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexsandro-cristiano&langs_count=30)](https://github.com/alexsandro-cristiano/github-readme-stats)
 
 <br>
 <br>
 
-## Redes Sociais | Social Media
+## Redes Sociais
 
 [<img align="left" alt="linkedin" width="30px" src="./img/lk.png">][linkedin]
 
