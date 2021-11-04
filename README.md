@@ -2,7 +2,7 @@
 
 <h1 align="center"> Oi meu nome é Alexsandro :boy:</h1>
 
-<p align="center"> Estudo front end e back end.</p>
+<p align="center"> Estudo back end e front end.</p>
 
 </p>
 
@@ -12,18 +12,19 @@
 ## 💬 Sobre mim!
 
 - 🧑‍🎓 Graduando em Análise e Desenvolvimento de Sistemas
-- 🎓 Técnico em Eletrônica
-- 🎓 Técnico em Informática
+- 🎓 Formação Técnica em Eletrônica
+- 🎓 Formação Técnica em Informática
 - 💼 Estou buscando uma oportunidade como Dev.
 - 🚀 Estou sempre aprendendo algo novo relacionado a tecnologia.
-- Ciclismo e praia sempre combinam comigo
+- Atividade que me dão prazer: Ciclismo, Praia e Música
 
 <br>
 
 
-## Projetos que são meu Xodó
+## :smiling_face_with_three_hearts: Projetos que são meu Xodó
 
   - Rock Sité - <a href= "https://github.com/alexsandro-cristiano/rocksite">Repositorio</a> | <a href="https://rocksite.netlify.app/"> Site </a>
+  - Cartão de Visita - <a href= "https://github.com/alexsandro-cristiano/cartao-de-visita">Repositorio</a> | <a href="https://alexsandrodev.netlify.app/"> Site </a>
 <br>
 
 ## Tecnologias e Ferramentas de estudo
