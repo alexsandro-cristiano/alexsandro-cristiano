@@ -6,9 +6,9 @@
 <br>
 
 ## :smiling_face_with_three_hearts: Projetos que são meu Xodó
-  - Portfolio - <a href= "https://github.com/alexsandro-cristiano/portfolio">Repositorio</a> | <a href="https://alexsandrodev.netlify.app/"> Site </a>
-  - Rock Sité - <a href= "https://github.com/alexsandro-cristiano/rocksite">Repositorio</a> | <a href="https://rocksite.netlify.app/"> Site </a>
-  - Cartão de Visita - <a href= "https://github.com/alexsandro-cristiano/cartao-de-visita">Repositorio</a> | <a href="https://cartaovisita.netlify.app/"> Site </a>
+  - Portfolio - <a href= "https://github.com/alexsandro-cristiano/portfolio">Repositorio</a> | <a href="https://alexsandrodev.netlify.app/" target="_blank"> Site </a>
+  - Rock Sité - <a href= "https://github.com/alexsandro-cristiano/rocksite">Repositorio</a> | <a href="https://rocksite.netlify.app/" target="_blank"> Site </a>
+  - Cartão de Visita - <a href= "https://github.com/alexsandro-cristiano/cartao-de-visita">Repositorio</a> | <a href="https://cartaovisita.netlify.app/" target="_blank"> Site </a>
 
 <br>
 
