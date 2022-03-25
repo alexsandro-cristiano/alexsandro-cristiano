@@ -1,65 +1,26 @@
 <p align="center">
-
 <h1 align="center"> Oi meu nome é Alexsandro :boy:</h1>
-
-<p align="center"> Estudo back end e front end.</p>
-
+<p align="center"> Desenvolvedor back-end e front-end.</p>
 </p>
 
 <br>
-<br>
-
-## 💬 Sobre mim!
-
-- 🧑‍🎓 Graduando em Análise e Desenvolvimento de Sistemas
-- 🎓 Formação Técnica em Eletrônica
-- 🎓 Formação Técnica em Informática
-- 💼 Estou buscando uma oportunidade como Dev.
-- 🚀 Estou sempre aprendendo algo novo relacionado a tecnologia.
-- Atividade que me dão prazer: Ciclismo, Praia e Música
-
-<br>
-
 
 ## :smiling_face_with_three_hearts: Projetos que são meu Xodó
-
+  - Portfolio - <a href= "https://github.com/alexsandro-cristiano/portfolio">Repositorio</a> | <a href="https://alexsandrodev.netlify.app/"> Site </a>
   - Rock Sité - <a href= "https://github.com/alexsandro-cristiano/rocksite">Repositorio</a> | <a href="https://rocksite.netlify.app/"> Site </a>
-  - Cartão de Visita - <a href= "https://github.com/alexsandro-cristiano/cartao-de-visita">Repositorio</a> | <a href="https://alexsandrodev.netlify.app/"> Site </a>
-<br>
-
-## Tecnologias e Ferramentas de estudo
-
-<img align="left" width="30px" src="./img/programming.png" alt="computador dev">
-<img align="left" width="30px" src="./img/java.png" alt="lingaguem java">
-<img align="left" width="30px" src="./img/spring.png">
-<img align="left" width="30px" src="./img/html.png">
-<img align="left" width="30px" src="./img/css.png">
-<img align="left" width="30px" src="./img/js.png">
-<img align="left" width="30px" src="./img/git.png">
-<img align="left" width="30px" src="./img/sql.png">
+  - Cartão de Visita - <a href= "https://github.com/alexsandro-cristiano/cartao-de-visita">Repositorio</a> | <a href="https://cartaovisita.netlify.app/"> Site </a>
 
 <br>
-<br>
 
-## Estatísticas
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexsandro-cristiano&langs_count=30)](https://github.com/alexsandro-cristiano/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexsandro-cristiano&layout=compact&langs_count=6&&theme=highcontrast)](https://github.com/alexsandro-cristiano/github-readme-stats)
 
 <br>
-<br>
 
-## Redes Sociais
+<a href = "mailto:acg.cristiano0@gmail.com">
+<img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+</a>
+<a href="https://www.linkedin.com/in/alexsandro-cristiano/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-[<img align="left" alt="linkedin" width="30px" src="./img/lk.png">][linkedin]
-
-[<img align="left" alt="instagram" width="30px" src="./img/is.png">][instagram]
-
-<!-- Sites -->
-
-[linkedin]: https://www.linkedin.com/in/alexsandro-cristiano/
-[instagram]: https://www.instagram.com/alex_o_sander/
-
-<br>
 <br>
 
 ### <div align="center"> Fique a vontate para olhar e editar meus repositorios ⬇️ </div>
