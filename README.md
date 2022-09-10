@@ -1,14 +1,14 @@
 <p align="center">
 <h1 align="center"> Oi meu nome é Alexsandro :boy:</h1>
-<p align="center"> Desenvolvedor back-end e front-end.</p>
+<p align="center"> Analista Desenvolvedor front-end</p>
 </p>
 
 <br>
 
 ## :smiling_face_with_three_hearts: Projetos que são meu Xodó
-  - Portfolio - <a href= "https://github.com/alexsandro-cristiano/portfolio">Repositorio</a> | <a href="https://alexsandrosilva.netlify.app/" target="_blank"> Site </a>
-  - Rock Sité - <a href= "https://github.com/alexsandro-cristiano/rocksite">Repositorio</a> | <a href="https://rocksite.netlify.app/" target="_blank"> Site </a>
-  - Cartão de Visita - <a href= "https://github.com/alexsandro-cristiano/cartao-de-visita">Repositorio</a> | <a href="https://cartaovisita.netlify.app/" target="_blank"> Site </a>
+  - Pit Stop - <a href= "https://github.com/alexsandro-cristiano/pitstop">Repositorio</a> | <a href="https://pitstopdev.netlify.app/" target="_blank"> Site </a>
+  
+ - Portfolio - <a href= "https://github.com/alexsandro-cristiano/portfolio">Repositorio</a> | <a href="https://alexsandrosilva.netlify.app/" target="_blank"> Site </a>
 
 <br>
 
