@@ -3,7 +3,7 @@
 
 <p align="center">
 <h1 align="center"> Oi, me chamo Alexsandro </h1>
-<p align="center"> Analista de Sistemas & Desenvolvedor</p>
+<p align="center">Analista e Desenvolvedor de Sistemas</p>
 </p>
 
 <br>
